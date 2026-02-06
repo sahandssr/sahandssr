@@ -1,4 +1,6 @@
-![Banner](./banner.png)
+<div align="center">
+  <img src="./banner.png" alt="Banner" />
+</div>
 
 <div align="center">
   <p>Visitor count</p>
