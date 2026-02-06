@@ -4,6 +4,6 @@
 
 
 <div align="center">
-  <p>**Visitor count**</p>
-  <img src="https://komarev.com/ghpvc/?username=sahandssr" alt="Visitor count">
+  <p><strong>Visitor count</strong></p>
+  <img src="https://profile-counter.deno.dev/sahandssr/count.svg" alt="Visitor count" />
 </div>
